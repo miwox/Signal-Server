@@ -469,7 +469,7 @@
     <dependency>
       <groupId>com.apollographql.apollo3</groupId>
       <artifactId>apollo-api-jvm</artifactId>
-      <version>3.7.1</version>
+      <version>3.8.5</version>
     </dependency>
 
   </dependencies>
